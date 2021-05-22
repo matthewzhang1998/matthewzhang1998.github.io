@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://matthewzhang1998.github.io/publication/</link>
+      <atom:link href="https://matthewzhang1998.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matthewzhang1998.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://matthewzhang1998.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>One-shot pruning of recurrent neural networks by jacobian spectrum evaluation</title>
+      <link>https://matthewzhang1998.github.io/publication/one-shot/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://matthewzhang1998.github.io/publication/one-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Model-Based Reinforcement Learning</title>
+      <link>https://matthewzhang1998.github.io/publication/benchmarking/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://matthewzhang1998.github.io/publication/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
