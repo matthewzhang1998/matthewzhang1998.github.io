@@ -7,7 +7,7 @@
     <description></description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://matthewzhang1998.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://matthewzhang1998.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title></title>
       <link>https://matthewzhang1998.github.io/</link>
     </image>
@@ -25,6 +25,30 @@
       <link>https://matthewzhang1998.github.io/publication/benchmarking/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://matthewzhang1998.github.io/publication/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Langevin Monte Carlo from Poincaré to Log-Sobolev</title>
+      <link>https://matthewzhang1998.github.io/publication/lsi-pi/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://matthewzhang1998.github.io/publication/lsi-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence and Optimality of Policy Gradient Methods in Weakly Smooth Settings</title>
+      <link>https://matthewzhang1998.github.io/publication/weakly-smooth/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://matthewzhang1998.github.io/publication/weakly-smooth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Langevin Monte Carlo in Chi-Squared and Renyi Divergence</title>
+      <link>https://matthewzhang1998.github.io/publication/renyi-chisq/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://matthewzhang1998.github.io/publication/renyi-chisq/</guid>
       <description></description>
     </item>
     
