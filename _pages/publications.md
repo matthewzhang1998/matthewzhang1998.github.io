@@ -24,7 +24,7 @@ Zhang "Towards a Theory of Non-Log-Concave Sampling: First-Order Stationarity Gu
 8. Murat A. Erdogdu, Rasa Hosseinzadeh, Matthew S. Zhang "Convergence of Langevin Monte Carlo in Chi-Squared and Rényi Divergence",in the *25th International Conference on Artificial Intelligence and Statistics* (AISTATS 2022). [<a href="https://arxiv.org/abs/2007.11612">arXiv</a>] [<a href="https://arxiv.org/pdf/2007.11612">PDF</a>] 
 
 
-#### pre-PhD conference, journal, and workshop papers
+#### Pre-PhD conference, journal, and workshop papers
 1. Matthew S. Zhang, Bradly Stadie, "One-shot pruning of recurrent neural networks by Jacobian spectrum evaluation", in the *8th International Conference on Learning Representations* (ICLR 2020). [<a href="https://arxiv.org/abs/1912.00120">arXiv</a>] [<a href="https://arxiv.org/pdf/1912.00120">PDF</a>]
 2. Tingwu Wang, Xuchan Bao, Ignasi Clavera, Jerrick Hoang, Yeming Wen, Eric Langlois, Matthew S.
 Zhang, Guodong Zhang, Pieter Abbeel, Jimmy Ba "Benchmarking Model-Based Reinforcement Learning", preprint. [<a href="https://arxiv.org/abs/1907.02057">arXiv</a>] [<a href="https://arxiv.org/pdf/1907.02057">PDF</a>]
