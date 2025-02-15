@@ -1,34 +1,26 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+title: Matthew Shunshi Zhang
+description: <a href="https://web.cs.toronto.edu/">Department of Computer Science, University of Toronto</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: avatar.jpeg
+  address: >
+    <!-- <p>123 your address street</p> -->
+    <!-- <p>Your City, State 12345</p> -->
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently pursuing a PhD in Computer Science at the University of Toronto, advised by [Prof. Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/). I am also affiliated with the [Vector Institute](https://vectorinstitute.ai/). In 2025, I visited [Prof. Sinho Chewi](https://chewisinho.github.io/) at Yale University. In 2023, I visited [Prof. Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) at the Georgia Institute of Technology. In 2022, I visited [Prof. Alain Durmus](https://alain.perso.math.cnrs.fr/) at ENS Paris-Saclay. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in **sampling**, optimal transport and high dimensional probability. In particular, my research focuses on the complexity of sampling algorithms, as well as other statistical problems in high dimensions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously I was a Master's student in Computer Science at the University of Toronto, supervised by [Prof. Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/) and [Prof. Animesh Garg](https://animesh.garg.tech/). Before that, I was an undergraduate student in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto.
+
+I also enjoy traveling and learning about different languages and cultures.
+
+Email: matthew[dot]zhang[at]mail[dot]utoronto[dot]ca
