@@ -23,4 +23,6 @@ Previously I was a Master's student in Computer Science at the University of Tor
 
 I also enjoy traveling and learning about different languages and cultures.
 
+**I am currently on the academic job market!**
+
 Email: matthew[dot]zhang[at]mail[dot]utoronto[dot]ca

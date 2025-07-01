@@ -5,8 +5,9 @@ title: publications
 ---
 
 #### Preprints and submissions
-1. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
-2. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy". [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
+1. Jason M. Altschuler, Sinho Chewi, Matthew S. Zhang "Shifted Composition IV: Underdamped Langevin and Numerical Discretizations with Partial Acceleration". [<a href="https://www.arxiv.org/abs/2506.23062">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2506.23062">PDF</a>]
+2. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
+3. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy". [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
 
 #### Journal articles
 1. Sinho Chewi, Murat A. Erdogdu, Mufan (Bill) Li, Ruoqi Shen, Matthew S. Zhang "Analysis of Langevin Monte Carlo from Poincaré to log-Sobolev", in *Foundations of Computational Mathematics* (2024). [<a href="https://arxiv.org/abs/2112.12662">arXiv</a>] [<a
@@ -15,7 +16,7 @@ href="https://arxiv.org/pdf/2112.12662">PDF</a>]
 #### Conference papers
 1. Yunbum Kook, Matthew S. Zhang "Rényi-infinity constrained sampling with d<sup>3</sup> membership queries", in the *ACM-SIAM Symposium on Discrete Algorithms* (SODA 2025). [<a href="https://arxiv.org/abs/2407.12967">arXiv</a>] [<a href="https://arxiv.org/pdf/2407.12967">PDF</a>]
 2. Yunbum Kook, Santosh Vempala, Matthew S. Zhang "In-and-Out: Algorithmic Diffusion for Sampling Convex Bodies", in the *38th Conference on Neural Information Processing Systems* (NeurIPS 2024, Spotlight). [<a href="https://arxiv.org/abs/2405.01425">arXiv</a>] [<a href="https://arxiv.org/pdf/2405.01425">PDF</a>]
-3. Yunboom Kook, Matthew S. Zhang, Sinho Chewi, Mufan (Bill) Li, Murat A. Erdogdu "Sampling from the mean-field stationary distribution", in the *37th Conference on Learning Theory* (COLT 2024). [<a href="https://arxiv.org/abs/2402.07355">arXiv</a>] [<a href="https://arxiv.org/pdf/2402.07355">PDF</a>]
+3. Yunbum Kook, Matthew S. Zhang, Sinho Chewi, Mufan (Bill) Li, Murat A. Erdogdu "Sampling from the mean-field stationary distribution", in the *37th Conference on Learning Theory* (COLT 2024). [<a href="https://arxiv.org/abs/2402.07355">arXiv</a>] [<a href="https://arxiv.org/pdf/2402.07355">PDF</a>]
 4. Matthew S. Zhang, Sinho Chewi, Mufan (Bill) Li, Krishnakumar Balasubramanian, Murat A. Erdogdu "Improved discretization analysis for the underdamped Langevin Monte Carlo", in the *36th Conference on Learning Theory* (COLT 2023). [<a href="https://arxiv.org/abs/2302.08049">arXiv</a>][<a href="https://arxiv.org/pdf/2302.08049">PDF</a>]
 5. Tom Huix, Matthew S. Zhang, Alain Durmus "Tight regret and complexity bounds for Thompson sampling via Langevin Monte Carlo", in the *26th International Conference on Artificial Intelligence and Statistics* (AISTATS 2023). [<a href="https://proceedings.mlr.press/v206/huix23a/huix23a.pdf">PDF</a>]
 6. Krishnakumar Balasubramanian, Sinho Chewi, Murat A. Erdogdu, Mufan Li, Adil Salim, Matthew S.
