@@ -21,7 +21,7 @@ I am interested in **sampling**, optimal transport and high dimensional probabil
 
 Previously I was a Master's student in Computer Science at the University of Toronto, supervised by [Prof. Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/) and [Prof. Animesh Garg](https://animesh.garg.tech/). Before that, I was an undergraduate student in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto.
 
-I also enjoy traveling and learning about different languages and cultures.
+I also enjoy traveling and learning about different languages and cultures. Recently I have also been trying different restaurants and I have started running in order to compensate.
 
 **I am currently on the academic job market!**
 

@@ -5,12 +5,15 @@ title: publications
 ---
 
 #### Preprints and submissions
-1. Jason M. Altschuler, Sinho Chewi, Matthew S. Zhang "Shifted Composition IV: Underdamped Langevin and Numerical Discretizations with Partial Acceleration". [<a href="https://www.arxiv.org/abs/2506.23062">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2506.23062">PDF</a>]
-2. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
-3. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy". [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
+1. Matthew S. Zhang, Stephen Huan, Jerry Huang, Nicholas Matthew Boffi, Sitan Chen, Sinho Chewi "Sublinear iterations can suffice even for DDPMs".
+2. Bobby Shi, Kevin Tian, Matthew S. Zhang "Perspectives on Stochastic Localization". [<a href="https://www.arxiv.org/abs/2510.04460">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2510.04460">PDF</a>]
+3. Matthew S. Zhang, "Analysis of Langevin midpoint methods using an anticipative Girsanov theorem". [<a href="https://arxiv.org/abs/2507.12791">arXiv</a>] [<a href="https://arxiv.org/pdf/2507.12791">PDF</a>]
+4. Jason M. Altschuler, Sinho Chewi, Matthew S. Zhang "Shifted Composition IV: Underdamped Langevin and Numerical Discretizations with Partial Acceleration". [<a href="https://www.arxiv.org/abs/2506.23062">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2506.23062">PDF</a>]
+5. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
 
 #### Journal articles
-1. Sinho Chewi, Murat A. Erdogdu, Mufan (Bill) Li, Ruoqi Shen, Matthew S. Zhang "Analysis of Langevin Monte Carlo from Poincaré to log-Sobolev", in *Foundations of Computational Mathematics* (2024). [<a href="https://arxiv.org/abs/2112.12662">arXiv</a>] [<a
+1. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy", in *SIAM Journal on Mathematical Analysis* (2025, to appear). [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
+2. Sinho Chewi, Murat A. Erdogdu, Mufan (Bill) Li, Ruoqi Shen, Matthew S. Zhang "Analysis of Langevin Monte Carlo from Poincaré to log-Sobolev", in *Foundations of Computational Mathematics* (2024). [<a href="https://arxiv.org/abs/2112.12662">arXiv</a>] [<a
 href="https://arxiv.org/pdf/2112.12662">PDF</a>]
 
 #### Conference papers
