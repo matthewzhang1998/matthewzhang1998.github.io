@@ -5,11 +5,12 @@ title: publications
 ---
 
 #### Preprints and submissions
-1. Matthew S. Zhang, Stephen Huan, Jerry Huang, Nicholas Matthew Boffi, Sitan Chen, Sinho Chewi "Sublinear iterations can suffice even for DDPMs".
-2. Bobby Shi, Kevin Tian, Matthew S. Zhang "Perspectives on Stochastic Localization". [<a href="https://www.arxiv.org/abs/2510.04460">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2510.04460">PDF</a>]
-3. Matthew S. Zhang, "Analysis of Langevin midpoint methods using an anticipative Girsanov theorem". [<a href="https://arxiv.org/abs/2507.12791">arXiv</a>] [<a href="https://arxiv.org/pdf/2507.12791">PDF</a>]
-4. Jason M. Altschuler, Sinho Chewi, Matthew S. Zhang "Shifted Composition IV: Underdamped Langevin and Numerical Discretizations with Partial Acceleration". [<a href="https://www.arxiv.org/abs/2506.23062">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2506.23062">PDF</a>]
-5. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
+1. Matthew S. Zhang, Stephen Huan, Jerry Huang, Nicholas Matthew Boffi, Sitan Chen, Sinho Chewi "Sublinear iterations can suffice even for DDPMs". [<a href="https://arxiv.org/abs/2511.04844">arXiv</a>][<a href="https://arxiv.org/pdf/2511.04844">PDF</a>]
+2. Sinho Chewi, Aram-Alexandre Pooladian, Matthew S. Zhang "Stability of the Kim-Milman flow map". [<a href="https://arxiv.org/abs/2511.01154">arXiv</a>][<a href="https://arxiv.org/pdf/2511.01154">PDF</a>]
+3. Bobby Shi, Kevin Tian, Matthew S. Zhang "Perspectives on Stochastic Localization". [<a href="https://www.arxiv.org/abs/2510.04460">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2510.04460">PDF</a>]
+4. Matthew S. Zhang, "Analysis of Langevin midpoint methods using an anticipative Girsanov theorem". [<a href="https://arxiv.org/abs/2507.12791">arXiv</a>] [<a href="https://arxiv.org/pdf/2507.12791">PDF</a>]
+5. Jason M. Altschuler, Sinho Chewi, Matthew S. Zhang "Shifted Composition IV: Underdamped Langevin and Numerical Discretizations with Partial Acceleration". [<a href="https://www.arxiv.org/abs/2506.23062">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2506.23062">PDF</a>]
+6. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
 
 #### Journal articles
 1. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy", in *SIAM Journal on Mathematical Analysis* (2025, to appear). [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
