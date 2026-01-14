@@ -23,6 +23,6 @@ Previously I was a Master's student in Computer Science at the University of Tor
 
 I also enjoy traveling and learning about different languages and cultures. Recently I have also been trying different restaurants and I have started running in order to compensate.
 
-**I am currently on the academic job market!**
+**I will be joining MIT as a C.L.E. Moore instructor in Fall 2026!**
 
 Email: matthew[dot]zhang[at]mail[dot]utoronto[dot]ca
