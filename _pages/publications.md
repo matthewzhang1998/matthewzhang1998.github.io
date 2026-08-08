@@ -5,17 +5,18 @@ title: publications
 ---
 
 #### Preprints and submissions
-1. Matthew S. Zhang "Sharp propagation of chaos in Rényi divergence". [<a href="https://arxiv.org/abs/2601.10076">arXiv</a>][<a href="https://arxiv.org/pdf/2601.10076">PDF</a>]
-2. Matthew S. Zhang, Stephen Huan, Jerry Huang, Nicholas Matthew Boffi, Sitan Chen, Sinho Chewi "Sublinear iterations can suffice even for DDPMs". [<a href="https://arxiv.org/abs/2511.04844">arXiv</a>][<a href="https://arxiv.org/pdf/2511.04844">PDF</a>]
-3. Sinho Chewi, Aram-Alexandre Pooladian, Matthew S. Zhang "Stability of the Kim-Milman flow map". [<a href="https://arxiv.org/abs/2511.01154">arXiv</a>][<a href="https://arxiv.org/pdf/2511.01154">PDF</a>]
+1. Fan Chen, Sinho Chewi, Alexander Rakhlin, Matthew S. Zhang "Exact simulation of diffusions and improved algorithms for log-concave sampling". [<a href="https://arxiv.org/abs/2608.05022">arXiv</a>][<a href="https://arxiv.org/pdf/2608.05022">PDF</a>]
+2. Matthew S. Zhang "Sharp propagation of chaos in Rényi divergence". [<a href="https://arxiv.org/abs/2601.10076">arXiv</a>][<a href="https://arxiv.org/pdf/2601.10076">PDF</a>]
+3. Matthew S. Zhang, Stephen Huan, Jerry Huang, Nicholas Matthew Boffi, Sitan Chen, Sinho Chewi "Sublinear iterations can suffice even for DDPMs". [<a href="https://arxiv.org/abs/2511.04844">arXiv</a>][<a href="https://arxiv.org/pdf/2511.04844">PDF</a>]
 4. Bobby Shi, Kevin Tian, Matthew S. Zhang "Perspectives on Stochastic Localization". [<a href="https://www.arxiv.org/abs/2510.04460">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2510.04460">PDF</a>]
 5. Matthew S. Zhang, "Analysis of Langevin midpoint methods using an anticipative Girsanov theorem". [<a href="https://arxiv.org/abs/2507.12791">arXiv</a>] [<a href="https://arxiv.org/pdf/2507.12791">PDF</a>]
 6. Jason M. Altschuler, Sinho Chewi, Matthew S. Zhang "Shifted Composition IV: Underdamped Langevin and Numerical Discretizations with Partial Acceleration". [<a href="https://www.arxiv.org/abs/2506.23062">arXiv</a>] [<a href="https://www.arxiv.org/pdf/2506.23062">PDF</a>]
 7. Yunbum Kook, Matthew S. Zhang "Covariance estimation with Markov chain Monte Carlo". [<a href="https://arxiv.org/abs/2410.17147v1">arXiv</a>] [<a href="https://arxiv.org/pdf/2410.17147v1">PDF</a>]
 
 #### Journal articles
-1. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy", in *SIAM Journal on Mathematical Analysis* (2025, to appear). [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
-2. Sinho Chewi, Murat A. Erdogdu, Mufan (Bill) Li, Ruoqi Shen, Matthew S. Zhang "Analysis of Langevin Monte Carlo from Poincaré to log-Sobolev", in *Foundations of Computational Mathematics* (2024). [<a href="https://arxiv.org/abs/2112.12662">arXiv</a>] [<a
+1. Sinho Chewi, Aram-Alexandre Pooladian, Matthew S. Zhang "Stability of the Kim-Milman flow map", in *Electronic Communications in Probability* (2026). [<a href="https://arxiv.org/abs/2511.01154">arXiv</a>][<a href="https://arxiv.org/pdf/2511.01154">PDF</a>]
+2. Sinho Chewi, Atsushi Nitanda, Matthew S. Zhang "Uniform-in-N log-Sobolev inequality for the mean-field Langevin dynamics with convex energy", in *SIAM Journal on Mathematical Analysis* (2025, to appear). [<a href="https://arxiv.org/abs/2409.10440">arXiv</a>] [<a href="https://arxiv.org/pdf/2409.10440">PDF</a>]
+3. Sinho Chewi, Murat A. Erdogdu, Mufan (Bill) Li, Ruoqi Shen, Matthew S. Zhang "Analysis of Langevin Monte Carlo from Poincaré to log-Sobolev", in *Foundations of Computational Mathematics* (2024). [<a href="https://arxiv.org/abs/2112.12662">arXiv</a>] [<a
 href="https://arxiv.org/pdf/2112.12662">PDF</a>]
 
 #### Conference papers
@@ -34,5 +35,4 @@ Zhang "Towards a Theory of Non-Log-Concave Sampling: First-Order Stationarity Gu
 1. Matthew S. Zhang, Bradly Stadie, "One-shot pruning of recurrent neural networks by Jacobian spectrum evaluation", in the *8th International Conference on Learning Representations* (ICLR 2020). [<a href="https://arxiv.org/abs/1912.00120">arXiv</a>] [<a href="https://arxiv.org/pdf/1912.00120">PDF</a>]
 2. Tingwu Wang, Xuchan Bao, Ignasi Clavera, Jerrick Hoang, Yeming Wen, Eric Langlois, Matthew S.
 Zhang, Guodong Zhang, Pieter Abbeel, Jimmy Ba "Benchmarking Model-Based Reinforcement Learning", preprint. [<a href="https://arxiv.org/abs/1907.02057">arXiv</a>] [<a href="https://arxiv.org/pdf/1907.02057">PDF</a>]
-
 
